@@ -1,4 +1,4 @@
-package io.github.jingweiwang.prototype;
+package io.github.jingweiwang.DesignPatterns.prototype;
 
 import java.util.Random;
 
