@@ -6,7 +6,7 @@
 | ------- | ------- | :-------: | :-------: | :-------: |
 | 1 | [原型模式](src/io/github/jingweiwang/DesignPatterns/prototype) | Prototype | 创造类 | 2017.7.24 |
 | 2 | [工厂方法模式](src/io/github/jingweiwang/DesignPatterns/factory) | Factory Method | 创造类 | 2017.7.25 |
-
+| 3 | [单例模式](src/io/github/jingweiwang/DesignPatterns/singleton) | Singleton | 创造类 | 2017.7.26 |
 
 ## 参考书目
 
