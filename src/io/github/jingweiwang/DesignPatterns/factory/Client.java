@@ -2,17 +2,13 @@ package io.github.jingweiwang.DesignPatterns.factory;
 
 public class Client {
     public static void main(String[] args) {
-        AbstractHumanFactory abstractHumanFactory = new HumanFactory();
-        Human whiteHuman = abstractHumanFactory.createHuman(WhiteHuman.class);
-        whiteHuman.getColor();
-        whiteHuman.getTalk();
+        Creator creator = new ConcreteCreator();
+        Product product1 = creator.createProduct(ConcreteProduct1.class);
+        Product product2 = creator.createProduct(ConcreteProduct2.class);
 
-        Human blackHuman = abstractHumanFactory.createHuman(BlackHuman.class);
-        blackHuman.getColor();
-        blackHuman.getTalk();
-
-        Human yellowHuman = abstractHumanFactory.createHuman(YellowHuman.class);
-        yellowHuman.getColor();
-        yellowHuman.getTalk();
+        product1.ShareMethod();
+        product1.doSomething();
+        product2.ShareMethod();
+        product2.doSomething();
     }
 }
