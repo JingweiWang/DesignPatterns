@@ -1,4 +1,4 @@
-# prototype 原型模式
+# Prototype 原型模式
 
 ## 定义
 
