@@ -1,6 +1,6 @@
 package io.github.jingweiwang.DesignPatterns.factory;
 
-public class NvWa {
+public class Client {
     public static void main(String[] args) {
         AbstractHumanFactory abstractHumanFactory = new HumanFactory();
         Human whiteHuman = abstractHumanFactory.createHuman(WhiteHuman.class);
