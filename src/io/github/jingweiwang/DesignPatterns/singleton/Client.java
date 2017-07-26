@@ -2,7 +2,7 @@ package io.github.jingweiwang.DesignPatterns.singleton;
 
 import io.github.jingweiwang.DesignPatterns.singleton.factory.FactorySingletion;
 
-public class Main {
+public class Client {
     public static void main(String[] args) {
         SlackerSingleton.getInstance().doSomething();
         SlackerMultiThreadSingleton.getInstance().doSomething();
