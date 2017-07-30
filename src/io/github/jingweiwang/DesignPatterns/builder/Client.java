@@ -5,5 +5,7 @@ public class Client {
         Director director = new Director();
 
         director.getProductA();
+
+        director.getProductB();
     }
 }
