@@ -5,6 +5,10 @@
 - Ensure a class has only one instance, and peovide a global point of access it.
 - 确保某一个类只有一个实例, 而且自行实例化并向整个系统提供这个实例。
 
+## 类图
+
+![](./Singleton.png)
+
 ## 实现
 
 1. [饿汉式](./HungrySingleton.java)
