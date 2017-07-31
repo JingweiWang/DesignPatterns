@@ -1,4 +1,4 @@
-package io.github.jingweiwang.DesignPatterns.prototype;
+package io.github.jingweiwang.DesignPatterns.prototype.example;
 
 public class AdvTemplate {
     // 广告信名称

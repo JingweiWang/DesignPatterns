@@ -1,4 +1,4 @@
-package io.github.jingweiwang.DesignPatterns.prototype;
+package io.github.jingweiwang.DesignPatterns.prototype.example;
 
 public class Mail implements Cloneable {
     // 收件人
