@@ -1,10 +1,12 @@
-package io.github.jingweiwang.DesignPatterns.command;
+package io.github.jingweiwang.DesignPatterns.command.perfect;
 
 public class ConcreteCommand2 extends Command {
-    private Receiver receiver;
+    public ConcreteCommand2() {
+        super(new ConcreteReceiver2());
+    }
 
     public ConcreteCommand2(Receiver receiver) {
-        this.receiver = receiver;
+        super(receiver);
     }
 
     @Override

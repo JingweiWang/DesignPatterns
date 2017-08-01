@@ -1,4 +1,4 @@
-package io.github.jingweiwang.DesignPatterns.command;
+package io.github.jingweiwang.DesignPatterns.command.perfect;
 
 public class ConcreteReceiver1 extends Receiver {
     @Override

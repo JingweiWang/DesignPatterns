@@ -1,9 +1,9 @@
-package io.github.jingweiwang.DesignPatterns.command;
+package io.github.jingweiwang.DesignPatterns.command.common;
 
-public class ConcreteCommand1 extends Command {
+public class ConcreteCommand2 extends Command {
     private Receiver receiver;
 
-    public ConcreteCommand1(Receiver receiver) {
+    public ConcreteCommand2(Receiver receiver) {
         this.receiver = receiver;
     }
 
