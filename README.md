@@ -8,6 +8,7 @@
 | 2 | [工厂方法模式](src/io/github/jingweiwang/DesignPatterns/factory) | Factory Method | 创造类 | 2017.7.25 |
 | 3 | [单例模式](src/io/github/jingweiwang/DesignPatterns/singleton) | Singleton | 创造类 | 2017.7.26 |
 | 4 | [抽象工厂模式](src/io/github/jingweiwang/DesignPatterns/abstractFactory) | Abstract Factory | 创造类 | 2017.7.27 |
+| 5 | [模版方法模式](src/io/github/jingweiwang/DesignPatterns/template) | Template Method | 行为类 | 2017.7.28 |
 
 ## 参考书目
 
