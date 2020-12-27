@@ -5,6 +5,6 @@ public class Singleton {
     }
 
     public void doSomething() {
-        System.out.println("FactorySingletion doSomething()");
+        System.out.println("FactorySingleton doSomething()");
     }
 }

@@ -2,7 +2,7 @@ package io.github.jingweiwang.DesignPatterns.singleton.factory;
 
 import java.lang.reflect.Constructor;
 
-public class FactorySingletion {
+public class FactorySingleton {
     private static Singleton instance;
 
     static {

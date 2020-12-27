@@ -1,5 +1,8 @@
 package io.github.jingweiwang.DesignPatterns.singleton;
 
+/**
+ * 饿汉式
+ */
 public class HungrySingleton {
     private static final HungrySingleton instance = new HungrySingleton();
 

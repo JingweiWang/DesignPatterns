@@ -1,5 +1,8 @@
 package io.github.jingweiwang.DesignPatterns.singleton;
 
+/**
+ * 懒汉式
+ */
 public class SlackerSingleton {
     private static SlackerSingleton instance = null;
 

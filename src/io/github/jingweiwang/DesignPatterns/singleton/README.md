@@ -2,7 +2,7 @@
 
 ## 定义
 
-- Ensure a class has only one instance, and peovide a global point of access it.
+- Ensure a class has only one instance, and provide a global point of access it.
 - 确保某一个类只有一个实例, 而且自行实例化并向整个系统提供这个实例。
 
 ## 类图
@@ -13,14 +13,14 @@
 
 1. [饿汉式](./HungrySingleton.java)
 2. [懒汉式](./SlackerSingleton.java)
-3. [关注线程同步的懒汉式](./SlackerMultiThreadSingleton.java)
-4. [双重锁定](./DoubleCheckLockingSingleton.java)
-5. [工厂方法](./factory/FactorySingletion.java)
-6. [静态内部类](./GoodSingleton.java) [最佳方案]
+3. [懒汉式(关注线程同步)](./ConcurrentSlackerSingleton.java)
+4. [双重检查锁定](./DoubleCheckLockSingleton.java) [最佳方案]
+5. [工厂方法](./factory/FactorySingleton.java)
+6. [静态内部类](./StaticInnerClzSingleton.java) [最佳方案]
 
 ## 应用
 
-### 优点 
+### 优点
 
 - 减少内存开支
 - 减少系统性能开支
