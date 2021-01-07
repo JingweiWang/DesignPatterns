@@ -1,5 +1,8 @@
 package io.github.jingweiwang.DesignPatterns.proxy.dynamic;
 
-public interface Subject {
+/**
+ * 抽象主题
+ */
+public interface ISubject {
     void doSomething(String str);
 }
