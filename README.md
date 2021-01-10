@@ -48,7 +48,7 @@
 | 7 | 命令模式 | Command |
 | 8 | 解释器模式 | Interpreter |
 | 9 | [责任链模式](src/io/github/jingweiwang/DesignPatterns/chain) | Chain of Responsibility |
-| 10 | 观察者模式 | Observer |
+| 10 | [观察者模式](src/io/github/jingweiwang/DesignPatterns/observer) | Observer |
 | 11 | 中介者模式 | Mediator |
 | 12 | 备忘录模式 | Memento |
 | 13 | 状态模式 | State |
