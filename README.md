@@ -51,7 +51,7 @@
 | 10 | [观察者模式](src/io/github/jingweiwang/DesignPatterns/observer) | Observer |
 | 11 | 中介者模式 | Mediator |
 | 12 | 备忘录模式 | Memento |
-| 13 | 状态模式 | State |
+| 13 | [状态模式](src/io/github/jingweiwang/DesignPatterns/state)| State |
 | 14 | 策略模式 | Strategy |
 | 15 | [模版方法模式](src/io/github/jingweiwang/DesignPatterns/template) | Template Method |
 | 16 | 访问者模式 | Visitor |
@@ -68,7 +68,7 @@
 | 22 | 门面模式 | Facade |
 | 23 | 享元模式 | Flyweight |
 
-## 参考资料
+# 参考资料
 
 - 设计模式：可复用面向对象软件的基础, GoF.
 - 设计模式之禅 (第二版), 秦小波 著.
