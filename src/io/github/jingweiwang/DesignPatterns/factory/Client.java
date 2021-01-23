@@ -6,9 +6,9 @@ public class Client {
         Product product1 = creator.createProduct(ConcreteProduct1.class);
         Product product2 = creator.createProduct(ConcreteProduct2.class);
 
-        product1.ShareMethod();
+        product1.shareMethod();
         product1.doSomething();
-        product2.ShareMethod();
+        product2.shareMethod();
         product2.doSomething();
     }
 }

@@ -1,7 +1,7 @@
 package io.github.jingweiwang.DesignPatterns.factory;
 
 public abstract class Product {
-    public void ShareMethod() {
+    public void shareMethod() {
         System.out.println("Product 共有方法");
     }
 
