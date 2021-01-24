@@ -51,8 +51,8 @@
 | 10 | [观察者模式](src/io/github/jingweiwang/DesignPatterns/observer) | Observer |
 | 11 | 中介者模式 | Mediator |
 | 12 | 备忘录模式 | Memento |
-| 13 | [状态模式](src/io/github/jingweiwang/DesignPatterns/state)| State |
-| 14 | 策略模式 | Strategy |
+| 13 | [状态模式](src/io/github/jingweiwang/DesignPatterns/state) | State |
+| 14 | [策略模式](src/io/github/jingweiwang/DesignPatterns/strategy) | Strategy |
 | 15 | [模版方法模式](src/io/github/jingweiwang/DesignPatterns/template) | Template Method |
 | 16 | 访问者模式 | Visitor |
 
