@@ -37,7 +37,7 @@
 | 1 | [单例模式](src/io/github/jingweiwang/DesignPatterns/singleton) | Singleton |
 | 2 | [工厂方法模式](src/io/github/jingweiwang/DesignPatterns/factory) | Factory Method |
 | 3 | [抽象工厂模式](src/io/github/jingweiwang/DesignPatterns/abstractFactory) | Abstract Factory |
-| 4 | 建造者模式 | Builder |
+| 4 | [建造者模式](src/io/github/jingweiwang/DesignPatterns/builder) | Builder |
 | 5 | [原型模式](src/io/github/jingweiwang/DesignPatterns/prototype) | Prototype |
 
 ## 行为型
@@ -45,11 +45,11 @@
 | No. | 设计模式 | Gof 通用名称 |
 | ------- | ------- | :-------: |
 | 6 | 迭代器模式 | Iterator |
-| 7 | 命令模式 | Command |
+| 7 | [命令模式](src/io/github/jingweiwang/DesignPatterns/command) | Command |
 | 8 | 解释器模式 | Interpreter |
 | 9 | [责任链模式](src/io/github/jingweiwang/DesignPatterns/chain) | Chain of Responsibility |
 | 10 | [观察者模式](src/io/github/jingweiwang/DesignPatterns/observer) | Observer |
-| 11 | 中介者模式 | Mediator |
+| 11 | [中介者模式](src/io/github/jingweiwang/DesignPatterns/mediator) | Mediator |
 | 12 | 备忘录模式 | Memento |
 | 13 | [状态模式](src/io/github/jingweiwang/DesignPatterns/state) | State |
 | 14 | [策略模式](src/io/github/jingweiwang/DesignPatterns/strategy) | Strategy |
